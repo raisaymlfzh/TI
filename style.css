@@ -1,0 +1,30 @@
+  body{
+        font-family: 'Times New Roman';
+      }
+      .header{
+        background-color: pink;
+        padding: 50px;
+        font-size: 25px;
+		text-align: center;
+      }
+      .sidebar{
+        background-color: yellow;
+        width: 20%;
+        height: 300px;
+        float: left;
+      }
+      .main{
+        background-color:white;
+        width: 80%;
+        height: 300px;
+        float: left;
+      }
+      .footer{
+        background-color: pink;
+        padding: 20px;
+        clear: both;
+      }
+      .Natya{
+        text-align: center;
+        font-style: italic;
+      }
